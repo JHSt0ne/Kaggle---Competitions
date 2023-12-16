@@ -1,1 +1,1 @@
-Completed model that predicts the price of houses
+Regression model that predicts the price of houses
